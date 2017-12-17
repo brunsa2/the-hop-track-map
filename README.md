@@ -8,7 +8,9 @@ It shows the relative layout of tracks but is not to scale.
 ![Milwaukee Streetcar track map](Track_map.png)
 
 The system is currently under construction and the map will be periodically
-updated to reflect new construction.
+updated to reflect new construction. As construction of track work is mostly
+complete and coming to a close for the 2017 construction season, future updates
+will likely be less frequent.
 
 Inclusion criteria
 ------------------
